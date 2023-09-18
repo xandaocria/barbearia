@@ -9,3 +9,12 @@ body {
         text-align: center;
      }
 
+
+     p {
+         text-align : center ;
+         background: #cccccc;
+     }
+
+     #missao {
+               font-size: 20px;
+     }
